@@ -1,0 +1,16 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0 Arial;}}
+\fs28\b FurEver Care - Project ReadMe\b0\fs22\par
+\par
+\b Run instructions\b0\par
+Open the FurEverCare_Project folder with VS Code Live Server, or run: python -m http.server 8000. Then browse to http://localhost:8000.\par
+\par
+\b Technologies\b0\par
+HTML5, CSS3, Bootstrap, JavaScript, jQuery, JSON/TXT and XML.\par
+\par
+\b Assumptions\b0\par
+No backend or server-side storage is used. Product purchase and appointment slots are display-only. Contact numbers and prices are demo values. External maps, video and photographs require internet access unless photographs have been downloaded using tools/download_images.py.\par
+\par
+\b Main documentation\b0\par
+See README.md, PROJECT_REPORT.md, SRS_COMPLIANCE.md and the SVG diagrams inside docs.\par
+}
